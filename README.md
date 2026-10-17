@@ -6,7 +6,7 @@ An interactive Power BI dashboard that analyses subscriber churn for a telecom c
 ![Risk Detail](Risk_Detail.png)
 
 ## 🎯 Business Problem
-Customer churn directly hurts recurring revenue. This project helps retention teams
+Customer churn directly affects recurring revenue. This project helps retention teams
 identify high-risk customer segments and prioritise where to intervene.
 
 ## 📊 Dashboard Pages
