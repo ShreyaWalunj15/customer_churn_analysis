@@ -3,7 +3,7 @@
 An interactive Power BI dashboard that analyses subscriber churn for a telecom company, showing **who is leaving, why, and how much monthly revenue is at risk**.
 
 ![Overview](Overview.png)
-![Risk Detail](Risk Detail.png)
+![Risk Detail](Risk_Detail.png)
 
 ## 🎯 Business Problem
 Customer churn directly hurts recurring revenue. This project helps retention teams
